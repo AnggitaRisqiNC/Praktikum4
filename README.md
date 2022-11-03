@@ -19,7 +19,6 @@ _Anggita Risqi Nur Clarita (312210450) TI.22.A.4_
 # Labpy02 (Praktikum 2)
 ## Membuat Program Menentukan Bilangan Terbesar dari 3 Buah Bilangan
 ### Flowchart Menentukan Bilangan Terbesar dari 3 Buah Bilangan
-Pertama buat flowchart terlebih dahulu
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Flowchart%20Praktikum2.png)
 ---
 
@@ -59,7 +58,7 @@ ketikkan rumusnya seperti dibawah ini.
 ```
 
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Praktikum2.png)
----
+
 maka setelah itu Run rumusnya
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Praktikum2%20(Run).png)
 ---
@@ -69,7 +68,6 @@ maka setelah itu Run rumusnya
 # Labspy03 (Praktikum 3)
 ## Latihan 1 (Perulangan)
 ### Flowchart Latihan 1
-Buatlah flowchart terlebih dahulu.
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Flowchart%20Latihan1.png)
 ---
 
@@ -100,15 +98,14 @@ Ketikkan rumusnya seperti dibawah ini.
 ```
 
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Latihan1.png)
----
+
 Kemudian Run rumusnya
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Latihan1%20(Run).png)
 ---
 
 ## Latihan 2 (Perulangan)
 ### Flowchart Latihan 2
-Buatlah Flowchart terlebih dahulu.
-1[image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Flowchart%20Latihan2.png)
+![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Flowchart%20Latihan2.png)
 ---
 
 ### Algoritma Latihan 2
@@ -136,7 +133,7 @@ max = 0 # Menentukan bilangan terbesar
 ```
 
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Latihan2.png)
----
+
 Kemudian Run rumus tersebut.
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Latihan2%20(Run).png)
 ---
