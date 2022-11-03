@@ -1,7 +1,7 @@
 # Praktikum 4
-_Anggita Risqi Nur Clarita (312210450) TI.22.A.4_
+_*Anggita Risqi Nur Clarita (312210450) TI.22.A.4*_
 
-### Daftar Isi <br>
+## Daftar Isi <br>
 | No | Description | Link |
 |----|----|----|
 |1| Flowchart Labpy02 |[Click Here](#flowchart-menentukan-bilangan-terbesar-dari-3-buah-bilangan)|
@@ -16,16 +16,14 @@ _Anggita Risqi Nur Clarita (312210450) TI.22.A.4_
 |10| Agoritma Program 1 |[Click Here](#algoritma-program-1)|
 |11| Program (rumus) Program 1 |[Click Here](#program-untuk-program-1-praktikum-3)|
 
-# Labpy02 (Praktikum 2)
-## Membuat Program Menentukan Bilangan Terbesar dari 3 Buah Bilangan
+## Labpy02 (Praktikum 2)
 ### Flowchart Menentukan Bilangan Terbesar dari 3 Buah Bilangan
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Flowchart%20Praktikum2.png)
----
 
 ### Algoritma Menentukan Bilangan Terbesar dari 3 Buah Bilangan
 1. Mulai
 2. Masukkan nilai a, b, c.
-3. Lalu gunakan perintah _int(input(" = "))_, tergantung sesuai versi python, jika versi 2 pakai _input(" ")_.
+3. Lalu gunakan perintah _int(input("="))_, tergantung sesuai versi python, jika versi 2 pakai _input(" ")_.
 4. Menentukan bilangan terbesar dari a, b, c dengan menggunakan _statement if_.
 5. Jika a lebih besar dari b dan c maka cetak nilai a, jika b lebih besar dari a dan c maka cetak nilai b, jika tidak keduanya maka cetak nilai c.
 6. Selesai
@@ -61,21 +59,18 @@ ketikkan rumusnya seperti dibawah ini.
 
 maka setelah itu Run rumusnya
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Praktikum2%20(Run).png)
----
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Praktikum2%20(Run)1.png)
----
 
-# Labspy03 (Praktikum 3)
-## Latihan 1 (Perulangan)
+## Labspy03 (Praktikum 3)
+### Latihan 1 (Perulangan)
 ### Flowchart Latihan 1
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Flowchart%20Latihan1.png)
----
 
 ### Algoritma latihan 1
 Menampilkan N bilangan acak yang lebih kecil dari *0,5*, nilai N diisi pada saat _runtime_.
 1. Mulai
 2. Memasukan/ import fungsi RANDOM terlebih dahulu.
-3. Deklarasi integer, masukkan jumlah N :
+3. Deklarasi int, masukkan jumlah N :
 4. Memasukan deskripsi kombinasi for untuk menyelesaikannya.
 5. Mencetak data ke 1 sampai N dengan hasil nilai kurang dari *0,5*.
 6. Selesai
@@ -101,12 +96,10 @@ Ketikkan rumusnya seperti dibawah ini.
 
 Kemudian Run rumusnya
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Latihan1%20(Run).png)
----
 
 ## Latihan 2 (Perulangan)
 ### Flowchart Latihan 2
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Flowchart%20Latihan2.png)
----
 
 ### Algoritma Latihan 2
 1. Mulai
@@ -136,7 +129,6 @@ max = 0 # Menentukan bilangan terbesar
 
 Kemudian Run rumus tersebut.
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Latihan2%20(Run).png)
----
 
 ## Program 1 (Praktikum 3)
 _Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya._
@@ -185,9 +177,9 @@ Ketikkan rumusnya seperti dibawah ini.
 ```
 
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Program1.png)
----
+
 Kemudian Run rumus tersebut.
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Program1%20(Run).png)
----
+
 # Selesai~
 Timakasi
