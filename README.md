@@ -6,7 +6,7 @@ _*Anggita Risqi Nur Clarita (312210450) TI.22.A.4*_
 |----|----|----|
 |1| Labpy02 |[Click Here](#labpy02-praktikum-2)|
 |2| Labpy03 (Latihan 1) |[Click Here](#latihan-1-perulangan)|
-|3| Labpy03 (Latihan 3) |[Click Here](#latihan-2-perulangan)|
+|3| Labpy03 (Latihan 2) |[Click Here](#latihan-2-perulangan)|
 |4| Labpy03 (Program 1) |[Click Here](#program-1-praktikum-3)|
 
 
@@ -69,7 +69,7 @@ Menampilkan N bilangan acak yang lebih kecil dari *0,5*, nilai N diisi pada saat
 5. Mencetak data ke 1 sampai N dengan hasil nilai kurang dari *0,5*.
 6. Selesai
 
-### Program untuk Latihan 1
+### Rumus Program untuk Latihan 1
 Ketikkan rumusnya seperti dibawah ini.
 ```python
 print("Menampilkan bilangan acak yang lebih kecil dari 0.5")
@@ -105,7 +105,7 @@ Kemudian _RUN_ rumusnya
 7. Mencetak nilai paling terbesar setelah *break*, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
 8. Selesai
 
-### Program untuk Latihan 2
+### Rumus Program untuk Latihan 2
 Ketikkan Rumusnya seperti dibawah ini.
 ```python
 max = 0 # Menentukan bilangan terbesar
@@ -148,7 +148,7 @@ Penyelesaian menggunakan For, if
 
 9. Selesai
 
-### Program untuk Program 1 (Praktikum 3)
+### Rumus Program untuk Program 1 (Praktikum 3)
 Ketikkan rumusnya seperti dibawah ini.
 ```python
 a = 100000000
