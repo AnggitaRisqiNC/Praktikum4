@@ -172,7 +172,7 @@ print("Total laba adalah : ",total)
 
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Program1.png)
 
-Kemudian Run rumus tersebut.
+Kemudian _RUN_ rumus tersebut.
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Program1%20(Run).png)
 
 # Selesai~
