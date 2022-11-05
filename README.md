@@ -23,7 +23,7 @@ _*Anggita Risqi Nur Clarita (312210450) TI.22.A.4*_
 6. Selesai
 
 ### Program Menentukan Bilangan Terbesar dari 3 Buah Bilangan
-ketikkan rumusnya seperti dibawah ini.
+Ketikkan rumusnya seperti dibawah ini.
 ```python
 def pengulangan():
     print("Program Menentukan Bilangan Terbesar dari 3 Bilangan")
@@ -51,7 +51,7 @@ pengulangan()
 
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Praktikum2.png)
 
-maka setelah itu _RUN_ rumusnya
+Maka setelah itu _RUN_ rumusnya
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Praktikum2%20(Run).png)
 ![image](https://github.com/AnggitaRisqiNC/Praktikum4/blob/main/screenshots/Praktikum2%20(Run)1.png)
 
@@ -128,21 +128,21 @@ Kemudian _RUN_ rumus tersebut.
 _Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya._
 
 ### Algoritma Program 1
-Penyelesaian menggunakan For, if
+Penyelesaian menggunakan for, if
 
 1. Mula-mula masukkan modal usahanya yaitu a = 100000000
 
-2. Gunakan perintah _for m in range (1,9):_, for ini untuk perulangan dari 1 sampai 8, kenapa menggunakan for,karena for ini perulangan yang terhitung. Pada skirp in range(1, 9) akan mebentuk list perulangan yang berisi [1,2,3,4,5,6,7,8] nah dan bahwa iterasi 9 itu tidak termasuk, untuk membuktikan bawa perulangan ini hanya sampai 8 saja.
+2. Gunakan perintah _for m in range (1,9):_, for ini untuk perulangan dari 1 sampai 8, kenapa menggunakan for, karena for ini perulangan yang terhitung. Pada skrip in range(1, 9) akan membentuk list perulangan yang berisi [1,2,3,4,5,6,7,8] dan 9 itu tidak termasuk, untuk membuktikan bawa perulangan ini hanya sampai 8 saja.
 
-3. Lalu gunakan _perintah if(m>=1 and m<=2): b=a*0_. if pertama ini untuk menentukan laba bulan ke 1 dan ke 2.masukan variable kalikan nilai (a) dengan data bulan 1 dan 2. lalu _print("Laba bulan ke-", m, "sebesar:", b)_ untuk menampilkan hasil laba. pada bulan pertama dan kedua belum mendapatkan laba jadinya 0.
+3. Lalu gunakan _perintah if(m>=1 and m<=2): b=a*0_. if pertama ini untuk menentukan laba bulan ke 1 dan ke 2. Masukkan variable lalu kalikan nilai (a) dengan data bulan 1 dan 2. lalu _print("Laba bulan ke-", m, "sebesar:", b)_ untuk menampilkan hasil laba. Pada bulan pertama dan kedua belum mendapatkan laba maka hasilnya 0.
 
-4. _if(m>=3 and m<=4): c=a*0.1_. if yang kedua ini untuk menentukkan laba bulan ke 3 dan ke 4.masukan variable kalikan nilai (a) dengan data bulan 3 dan 4. pada bulan ke 3 itu baru mendapatkan laba sebesar 1% berarti bulan ke 4 juga sama. lalu cetak (m) dan (c), dengan perintah _print("Laba bulan ke-", m, "sebesar:", c)_.
+4. Lalu _if(m>=3 and m<=4): c=a*0.1_. if yang kedua ini untuk menentukkan laba bulan ke 3 dan ke 4. Masukkan variable lalu kalikan nilai (a) dengan data bulan 3 dan 4. Pada bulan ke 3 itu baru mendapatkan laba sebesar 1% berarti bulan ke 4 juga sama. Lalu cetak (m) dan (c), dengan perintah _print("Laba bulan ke-", m, "sebesar:", c)_.
 
-5. Kemudian _if(m>5 and m<=7): d=a*0.5_. if ketiga untuk menentukan laba bulan ke 5 sampai ke 7.masukan variable lalu kalikan nilai (a) dengan data bulan 5 sampai 7, pada bulan ke 5 laba naik sebesar 5% berarti pada bulan ke 6 dan 7 kenaikan labanya sama, lalu cetak (m) dan (d), dengan perintah _print ("Laba bulan ke-", m, "sebesar:", d)_.
+5. Kemudian _if(m>5 and m<=7): d=a*0.5_. if ketiga ini untuk menentukan laba bulan ke 5 sampai ke 7. Masukkan variable lalu kalikan nilai (a) dengan data bulan 5 sampai 7. Pada bulan ke 5 laba naik sebesar 5% berarti pada bulan ke 6 dan 7 kenaikkan labanya sama. Lalu cetak (m) dan (d), dengan perintah _print ("Laba bulan ke-", m, "sebesar:", d)_.
 
-6. _if(m==8): e=a*0.2_. if keempat atau yang terakhir ini untuk menentukan laba bulan ke 8. lalu masukan variabel kalikan nilai (a) dengan data bulan 8. Pada laba bulan ke 8 ini menurun sebanyak 2%, lalu cetak (m) dan (e) dengan perintah _print ("Laba bulan ke-", m, "sebesar:", e)_.
+6. Selanjutnya _if(m==8): e=a*0.2_. if keempat atau yang terakhir ini untuk menentukan laba bulan ke 8. Masukkan variabel lalu kalikan nilai (a) dengan data bulan 8. Pada laba bulan ke 8 ini menurun sebanyak 2%. Lalu cetak (m) dan (e) dengan perintah _print ("Laba bulan ke-", m, "sebesar:", e)_.
 
-7. Kemudian yang terakhir totalkan keseluruhan laba yaitu _total = b+b+c+c+d+d+d+e_.
+7. Kemudian yang terakhir totalkan semua keseluruhan laba yaitu _total = b+b+c+c+d+d+d+e_.
 
 8. lalu _print("Total laba adalah : ", total)_, untuk menampilkan hasil keseluruhan laba dari bulan pertama sampai bulan kedelapan.
 
